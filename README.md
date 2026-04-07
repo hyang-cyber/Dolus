@@ -69,3 +69,13 @@ void loop() {
 This ensures that all spoofed APs broadcast their beacons within the "passive scan dwell time" of client devices. An Android device typically listens on a single channel for 60-90ms. By rotating through all our AP beacons within 50ms (for 5 APs), we guarantee that any listening target device picks up the entire spoofed list in a single scan phase perfectly.
 
 The RTL8720dn opens up a new realm of hardware network testing formerly reserved for full Linux-based SDRs or heavily modified PCIe wireless interfaces. By dropping down to barebones buffer manipulation, we get an incredibly powerful 5GHz protocol tester that runs efficiently off a simple USB battery bank.
+
+
+### Update
+
+Iphone uses advanced sensor fusion algorithm to detect the indoor location. you need to move your phone to have the location updated.
+
+
+Using HackRF One to simulate the L1 GPS signal will significantly increase the chance to get location spoofed for iPhone.
+
+###
