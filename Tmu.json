@@ -1,0 +1,1128 @@
+{
+  "bt": [],
+  "filename": "Tmu.csv",
+  "n_bt": 0,
+  "n_wifi": 140,
+  "wifi": [
+    {
+      "bssid": "40:F2:01:F8:65:EF",
+      "channel": 11,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -56,
+      "ssid": "BELL072"
+    },
+    {
+      "bssid": "96:9C:36:24:56:8C",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -56,
+      "ssid": "Galaxy S23 Ultra A930"
+    },
+    {
+      "bssid": "B8:EE:0E:E8:9B:3E",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -56,
+      "ssid": "BELL317"
+    },
+    {
+      "bssid": "64:66:24:DF:87:A6",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -59,
+      "ssid": "BELL345"
+    },
+    {
+      "bssid": "40:F2:01:F8:65:F0",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -59,
+      "ssid": "BELL072"
+    },
+    {
+      "bssid": "40:F2:01:ED:33:43",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -61,
+      "ssid": "Choco"
+    },
+    {
+      "bssid": "10:06:45:CE:3C:CE",
+      "channel": 1,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -61,
+      "ssid": "BELL186"
+    },
+    {
+      "bssid": "B0:7F:B9:89:23:7E",
+      "channel": 3,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -62,
+      "ssid": "NETGEAR19"
+    },
+    {
+      "bssid": "B2:7F:B9:89:23:7F",
+      "channel": 3,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -64,
+      "ssid": "Free WiFi - Roundabout Canada"
+    },
+    {
+      "bssid": "AE:4D:7E:10:6C:87",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -64,
+      "ssid": "Nadeem?s iPhone"
+    },
+    {
+      "bssid": "5C:B1:3E:41:69:3A",
+      "channel": 11,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -64,
+      "ssid": "BELL206"
+    },
+    {
+      "bssid": "54:64:D9:34:5B:84",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -65,
+      "ssid": "BRUN"
+    },
+    {
+      "bssid": "88:A6:C6:7A:41:C7",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -66,
+      "ssid": "BELL222"
+    },
+    {
+      "bssid": "5C:B1:3E:2A:8A:A6",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -67,
+      "ssid": "BELL800"
+    },
+    {
+      "bssid": "48:2F:6B:90:CE:F1",
+      "channel": 112,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -67,
+      "ssid": "TMU"
+    },
+    {
+      "bssid": "48:2F:6B:90:CE:F0",
+      "channel": 112,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -67,
+      "ssid": "eduroam"
+    },
+    {
+      "bssid": "9E:B8:EB:36:58:9E",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -68,
+      "ssid": "iPhone"
+    },
+    {
+      "bssid": "88:A6:C6:7A:41:C6",
+      "channel": 1,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -68,
+      "ssid": "BELL222"
+    },
+    {
+      "bssid": "54:64:D9:3A:04:BF",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -68,
+      "ssid": "Trailer-steak and cheese"
+    },
+    {
+      "bssid": "48:2F:6B:8E:F0:B0",
+      "channel": 116,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -69,
+      "ssid": "eduroam"
+    },
+    {
+      "bssid": "B4:79:C8:E8:54:A8",
+      "channel": 7,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -69,
+      "ssid": "TS Staff"
+    },
+    {
+      "bssid": "54:64:D9:E9:D8:57",
+      "channel": 11,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -69,
+      "ssid": "BELL646"
+    },
+    {
+      "bssid": "48:2F:6B:8E:F0:B1",
+      "channel": 116,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -69,
+      "ssid": "TMU"
+    },
+    {
+      "bssid": "7E:29:22:45:B7:48",
+      "channel": 9,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -69,
+      "ssid": "A3L-23-01B26"
+    },
+    {
+      "bssid": "0C:AC:8A:C1:86:A5",
+      "channel": 11,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -70,
+      "ssid": "Han"
+    },
+    {
+      "bssid": "5C:B1:3E:41:CA:92",
+      "channel": 1,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -71,
+      "ssid": "BELL221"
+    },
+    {
+      "bssid": "C4:91:CF:06:47:91",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -71,
+      "ssid": "DavesHotChicken2.4G"
+    },
+    {
+      "bssid": "24:20:C7:C2:DE:1F",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -71,
+      "ssid": "BELL437"
+    },
+    {
+      "bssid": "54:64:D9:34:5B:85",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -71,
+      "ssid": "BRUN"
+    },
+    {
+      "bssid": "FA:6D:CC:AA:A1:73",
+      "channel": 6,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -72,
+      "ssid": "Audi_MMI_6894"
+    },
+    {
+      "bssid": "D0:21:F9:1F:09:59",
+      "channel": 11,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -72,
+      "ssid": "Thornton_Priv"
+    },
+    {
+      "bssid": "1A:FD:74:1B:BB:77",
+      "channel": 4,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -74,
+      "ssid": "funduk-guest"
+    },
+    {
+      "bssid": "64:66:24:DF:87:A7",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -75,
+      "ssid": "BELL345"
+    },
+    {
+      "bssid": "48:2F:6B:8E:DD:D0",
+      "channel": 52,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -76,
+      "ssid": "eduroam"
+    },
+    {
+      "bssid": "B8:EE:0E:E8:9B:3F",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -76,
+      "ssid": "BELL317"
+    },
+    {
+      "bssid": "48:2F:6B:8E:DD:D1",
+      "channel": 52,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -76,
+      "ssid": "TMU"
+    },
+    {
+      "bssid": "5C:B1:3E:2A:8A:A7",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -76,
+      "ssid": "BELL800"
+    },
+    {
+      "bssid": "54:64:D9:3A:04:C0",
+      "channel": 44,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -77,
+      "ssid": "Trailer-steak and cheese"
+    },
+    {
+      "bssid": "5C:B1:3E:41:69:3B",
+      "channel": 44,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -77,
+      "ssid": "BELL206"
+    },
+    {
+      "bssid": "30:DF:17:CD:EA:E2",
+      "channel": 153,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -78,
+      "ssid": "Smartphone_connect_cdeae2"
+    },
+    {
+      "bssid": "F0:B4:D2:B7:6D:49",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -78,
+      "ssid": "skycondos"
+    },
+    {
+      "bssid": "82:2A:A8:95:87:B9",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -78,
+      "ssid": "HMART-Public"
+    },
+    {
+      "bssid": "8E:DC:96:76:D5:97",
+      "channel": 52,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -79,
+      "ssid": "P@nda Guest"
+    },
+    {
+      "bssid": "54:64:D9:E9:D8:58",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -79,
+      "ssid": "BELL646"
+    },
+    {
+      "bssid": "88:DC:96:76:D5:97",
+      "channel": 52,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -79,
+      "ssid": "P@nda"
+    },
+    {
+      "bssid": "DE:21:F9:1F:09:5A",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -80,
+      "ssid": "Heart"
+    },
+    {
+      "bssid": "1A:FD:74:1B:BB:79",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -80,
+      "ssid": "funduk-guest"
+    },
+    {
+      "bssid": "D6:21:F9:1F:09:5A",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -80,
+      "ssid": "Thornton_Priv"
+    },
+    {
+      "bssid": "1A:FD:74:1B:BB:78",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -80,
+      "ssid": "funduk-staff"
+    },
+    {
+      "bssid": "DA:21:F9:1F:09:5A",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -80,
+      "ssid": "Thornton_guest"
+    },
+    {
+      "bssid": "5C:B1:3E:41:CA:93",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -81,
+      "ssid": "BELL221"
+    },
+    {
+      "bssid": "10:06:45:CE:3C:CF",
+      "channel": 44,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -82,
+      "ssid": "BELL186"
+    },
+    {
+      "bssid": "40:F2:01:ED:33:44",
+      "channel": 44,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -82,
+      "ssid": "Choco"
+    },
+    {
+      "bssid": "A8:BD:27:58:C5:12",
+      "channel": 60,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -82,
+      "ssid": "TMU"
+    },
+    {
+      "bssid": "08:B4:B1:12:80:1D",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -83,
+      "ssid": "TasteT Ryerson"
+    },
+    {
+      "bssid": "A8:BD:27:58:C5:11",
+      "channel": 60,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -83,
+      "ssid": "eduroam"
+    },
+    {
+      "bssid": "D4:6C:6D:1A:54:51",
+      "channel": 44,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -84,
+      "ssid": "Rogers8879"
+    },
+    {
+      "bssid": "B0:7F:B9:89:23:7D",
+      "channel": 153,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -85,
+      "ssid": "NETGEAR19-5G"
+    },
+    {
+      "bssid": "B6:8E:62:95:F1:63",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -85,
+      "ssid": "Ohyo"
+    },
+    {
+      "bssid": "B4:79:C8:28:54:8C",
+      "channel": 100,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -85,
+      "ssid": "TS POS"
+    },
+    {
+      "bssid": "B6:8E:62:9B:62:63",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -85,
+      "ssid": "install"
+    },
+    {
+      "bssid": "3C:46:A1:9A:5F:24",
+      "channel": 108,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "E2:CB:AC:8F:E3:CF",
+      "channel": 140,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "03FL_20130709"
+    },
+    {
+      "bssid": "48:4A:E9:15:36:70",
+      "channel": 100,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "Just Results"
+    },
+    {
+      "bssid": "3C:46:A1:9A:87:C0",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "3C:46:A1:9A:5F:21",
+      "channel": 108,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "88:DC:96:71:21:F7",
+      "channel": 40,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "OsgoodePD"
+    },
+    {
+      "bssid": "3C:46:A1:9A:5F:20",
+      "channel": 108,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "EA:CB:AC:8F:E3:CF",
+      "channel": 140,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "StrInet_BD"
+    },
+    {
+      "bssid": "B4:79:C8:E8:54:8C",
+      "channel": 100,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "TS Staff"
+    },
+    {
+      "bssid": "B4:79:C8:A8:54:8C",
+      "channel": 100,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "Tokyo Smoke Guest"
+    },
+    {
+      "bssid": "C4:91:CF:06:47:98",
+      "channel": 153,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "DavesHotChicken5G"
+    },
+    {
+      "bssid": "F6:CB:AC:8F:E3:CF",
+      "channel": 140,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -86,
+      "ssid": "FootLocker_Guest"
+    },
+    {
+      "bssid": "0E:AC:8A:AC:8F:09",
+      "channel": 157,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "Garage"
+    },
+    {
+      "bssid": "3C:46:A1:9A:65:D4",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "AE:8B:A9:43:9E:43",
+      "channel": 161,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "HealthyYD"
+    },
+    {
+      "bssid": "0A:8D:CB:D9:2D:8A",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "JA_SIRGen"
+    },
+    {
+      "bssid": "F0:B4:D2:B0:19:29",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "skycondos"
+    },
+    {
+      "bssid": "16:8D:CB:D9:2D:8A",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "JacksTVAudio"
+    },
+    {
+      "bssid": "3C:46:A1:9A:65:D1",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "3C:46:A1:9A:77:F0",
+      "channel": 104,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "FA:6D:CC:CA:A1:73",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -87,
+      "ssid": "Audi_MMI_6894_5GHz"
+    },
+    {
+      "bssid": "A2:46:8D:1A:14:32",
+      "channel": 64,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Little Canada Guests"
+    },
+    {
+      "bssid": "3C:46:A1:9A:77:F1",
+      "channel": 104,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "3C:46:A1:9A:65:D0",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "06:8D:CB:D9:2D:8A",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "iPad Repair"
+    },
+    {
+      "bssid": "3C:46:A1:9A:49:64",
+      "channel": 64,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:49:91",
+      "channel": 60,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "3C:46:A1:9A:49:94",
+      "channel": 60,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:60:D4",
+      "channel": 52,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:53:00",
+      "channel": 108,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "1A:8D:CB:D9:2D:8A",
+      "channel": 149,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "RitualWIFI"
+    },
+    {
+      "bssid": "34:DB:9C:82:73:07",
+      "channel": 44,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -88,
+      "ssid": "VIRGIN273"
+    },
+    {
+      "bssid": "A6:46:8D:1A:14:32",
+      "channel": 64,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "GTSHUB"
+    },
+    {
+      "bssid": "D0:4F:58:99:B1:64",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "AA:46:8D:1A:14:32",
+      "channel": 64,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "LC-WIFI"
+    },
+    {
+      "bssid": "A8:FB:40:3A:44:E5",
+      "channel": 161,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "SilverSamurai"
+    },
+    {
+      "bssid": "3C:46:A1:9A:52:90",
+      "channel": 136,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "8A:46:8D:1A:14:32",
+      "channel": 64,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Microcontroller"
+    },
+    {
+      "bssid": "70:4C:A5:73:B6:02",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "YM-BackOffice"
+    },
+    {
+      "bssid": "00:0D:67:00:6F:9F",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Z2L4N13_Z2L4N14"
+    },
+    {
+      "bssid": "86:45:58:72:F5:FA",
+      "channel": 161,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "ThingsOfI"
+    },
+    {
+      "bssid": "78:45:58:72:F5:FA",
+      "channel": 161,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "SKPOS"
+    },
+    {
+      "bssid": "3C:46:A1:9A:52:91",
+      "channel": 136,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "3C:46:A1:9A:52:94",
+      "channel": 136,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "BE:46:8D:1A:14:32",
+      "channel": 64,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "LCEVENT"
+    },
+    {
+      "bssid": "3C:46:A1:9A:73:00",
+      "channel": 136,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "3C:46:A1:9A:6C:10",
+      "channel": 52,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "96:04:E3:E8:80:E2",
+      "channel": 44,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Mehdi"
+    },
+    {
+      "bssid": "3C:46:A1:9A:7B:64",
+      "channel": 60,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "B4:79:C8:28:54:AC",
+      "channel": 40,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "TS POS"
+    },
+    {
+      "bssid": "AE:46:8D:1A:14:32",
+      "channel": 64,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "MakersAVHub"
+    },
+    {
+      "bssid": "3C:46:A1:9A:63:64",
+      "channel": 52,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:77:F4",
+      "channel": 104,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:73:01",
+      "channel": 136,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -89,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "3C:46:A1:9A:53:04",
+      "channel": 108,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:78:00",
+      "channel": 112,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "7E:AC:B9:68:BB:B4",
+      "channel": 140,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Aperture_Guest"
+    },
+    {
+      "bssid": "C0:C7:0A:AB:97:F0",
+      "channel": 104,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "B4:79:C8:E8:54:AC",
+      "channel": 40,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "TS Staff"
+    },
+    {
+      "bssid": "3C:46:A1:9A:52:F4",
+      "channel": 136,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "C0:C7:0A:AB:97:F4",
+      "channel": 104,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "B4:79:C8:A8:54:AC",
+      "channel": 40,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Tokyo Smoke Guest"
+    },
+    {
+      "bssid": "C0:C7:0A:AB:8A:44",
+      "channel": 60,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -90,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:5D:D1",
+      "channel": 132,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "3C:46:A1:9A:69:74",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:54:30",
+      "channel": 165,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Chelsea_Guest"
+    },
+    {
+      "bssid": "D0:4F:58:9F:88:C4",
+      "channel": 36,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "7A:AC:B9:68:BB:B4",
+      "channel": 140,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Aperture"
+    },
+    {
+      "bssid": "3C:46:A1:9A:5D:D4",
+      "channel": 132,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:52:84",
+      "channel": 56,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:6D:31",
+      "channel": 100,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -91,
+      "ssid": "Chelsea_StayPlease"
+    },
+    {
+      "bssid": "3C:46:A1:9A:75:34",
+      "channel": 108,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -92,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:6D:34",
+      "channel": 100,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -92,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:6A:44",
+      "channel": 108,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -92,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:75:A4",
+      "channel": 100,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -92,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "D0:4F:58:BC:4D:F4",
+      "channel": 140,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -93,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:56:14",
+      "channel": 132,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -93,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:59:64",
+      "channel": 140,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -93,
+      "ssid": "Chelsea_Public"
+    },
+    {
+      "bssid": "3C:46:A1:9A:55:F4",
+      "channel": 165,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "rssi": -95,
+      "ssid": "Chelsea_Public"
+    }
+  ]
+}
