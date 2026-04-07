@@ -8,9 +8,11 @@
   the presence of multiple 5GHz WiFi access points. Useful for testing
   device anti-spoof / rogue-AP detection capabilities.
 
-  Hardware : Realtek RTL8720dn (BW16 / AmebaD module)
+  Author    : Huiyuan Yang
+  GitHub    : https://github.com/hyang-cyber/Dolus
+  Hardware  : Realtek RTL8720dn (BW16 / AmebaD module)
   SDK       : Realtek AmebaD Arduino SDK
-  Reuses   : wifi_cust_tx.h / wifi_cust_tx.cpp (already in repo)
+  Reuses    : wifi_cust_tx.h / wifi_cust_tx.cpp (already in repo)
 
   ⚠  For authorized testing only on networks/devices you own.
 */
@@ -39,26 +41,11 @@ struct SpoofAP {
 
 // {{TEMPLATE:SPOOF_LIST
 SpoofAP spoof_list[] = {
-    {"HomeNetwork_5G",
-     36,
-     {0x00, 0x14, 0x6C, 0x11, 0x22, 0x01},
-     AP_SEC_WPA2}, // Cisco
-    {"OfficeWiFi_5G",
-     36,
-     {0xC0, 0xFF, 0xD4, 0x11, 0x22, 0x02},
-     AP_SEC_WPA3}, // Netgear
-    {"GuestNet_5G",
-     36,
-     {0xE8, 0x94, 0xF6, 0x11, 0x22, 0x03},
-     AP_SEC_OPEN}, // TP-Link
-    {"CafeWireless_5G",
-     36,
-     {0x00, 0x14, 0xBF, 0x11, 0x22, 0x04},
-     AP_SEC_WPA2}, // Linksys
-    {"RouterAX_5G",
-     36,
-     {0x08, 0x60, 0x6E, 0x11, 0x22, 0x05},
-     AP_SEC_WPA3}, // Asus
+  { "HomeNetwork_5G",   36, { 0x00, 0x14, 0x6C, 0x11, 0x22, 0x01 }, AP_SEC_WPA2 },  // Cisco
+  { "OfficeWiFi_5G",   36, { 0xC0, 0xFF, 0xD4, 0x11, 0x22, 0x02 }, AP_SEC_WPA3 },  // Netgear
+  { "GuestNet_5G",     36, { 0xE8, 0x94, 0xF6, 0x11, 0x22, 0x03 }, AP_SEC_OPEN  },  // TP-Link
+  { "CafeWireless_5G", 36, { 0x00, 0x14, 0xBF, 0x11, 0x22, 0x04 }, AP_SEC_WPA2 },  // Linksys
+  { "RouterAX_5G",     36, { 0x08, 0x60, 0x6E, 0x11, 0x22, 0x05 }, AP_SEC_WPA3 },  // Asus
 };
 // TEMPLATE:SPOOF_LIST}}
 

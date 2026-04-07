@@ -6,6 +6,9 @@ Generates an RTL8720dn_5G_Spoofer Arduino sketchbook from a SkyLift JSON
 network file.  Mirrors the behaviour of sketchCreate.py but targets the
 Realtek RTL8720dn (BW16 / AmebaD) board and its SpoofAP struct format.
 
+Author  : Huiyuan Yang
+GitHub  : https://github.com/hyang-cyber/Dolus
+
 This script is intentionally self-contained (no SkyLift package imports)
 so it can be dropped into a dedicated repo without modification.
 

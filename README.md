@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="image/project_logo.svg" alt="Project Dolos Logo" width="200"/>
+</div>
+
 # Project Dolos
 # Building a 5GHz WiFi Spoofer with the Realtek RTL8720dn
 
@@ -75,7 +79,9 @@ The RTL8720dn opens up a new realm of hardware network testing formerly reserved
 
 Iphone uses advanced sensor fusion algorithm to detect the indoor location. you need to move your phone to have the location updated.
 
-
 Using HackRF One to simulate the L1 GPS signal will significantly increase the chance to get location spoofed for iPhone.
 
 ###
+## Hardware
+
+![BW16 RTL8720dn module running the 5GHz spoofer](image/bw16.jpg)

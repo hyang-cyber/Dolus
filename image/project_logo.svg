@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gradMaskRefined" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="50%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="#020617" />
+  <g filter="url(#glow)">
+    <!-- Main Mask Geometry -->
+    <path d="M 100 170 L 45 110 L 30 35 L 75 65 L 100 90 L 125 65 L 170 35 L 155 110 Z" fill="none" stroke="url(#gradMaskRefined)" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+    
+    <!-- Inner Circuit Lines -->
+    <path d="M 100 90 L 100 145" fill="none" stroke="url(#gradMaskRefined)" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 6" />
+    <path d="M 75 65 L 100 110 L 125 65" fill="none" stroke="url(#gradMaskRefined)" stroke-width="4" stroke-linejoin="round" opacity="0.6"/>
+    
+    <!-- Menacing Eyes -->
+    <path d="M 55 95 L 85 105 L 75 90 Z" fill="#10b981" />
+    <path d="M 145 95 L 115 105 L 125 90 Z" fill="#6366f1" />
+    
+  </g>
+</svg>
