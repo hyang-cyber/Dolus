@@ -229,14 +229,21 @@ def rtl8720dn_sketch_create(
     # ------------------------------------------------------------------
     # Build SPOOF_LIST payload
     # ------------------------------------------------------------------
-    spoof_lines = ['SpoofAP spoof_list[] = {']
+    # Assign 5GHz channels round-robin by RSSI rank, then sort by channel so
+    # the firmware's channel-hopping loop switches the radio as few times as
+    # possible per cycle (one switch per distinct channel, not per AP).
     for idx, net in enumerate(wifi_nets):
-        channel_5g = opt_channels[idx % len(opt_channels)]
-        security   = _pick_security(opt_security)
-        bssid_ino  = _bssid_as_hex_list_ino(net['bssid'])
-        ssid_safe  = net['ssid'].replace('"', '\\"')  # escape quotes in SSID
+        net['channel_5g'] = opt_channels[idx % len(opt_channels)]
+        net['security']   = _pick_security(opt_security)
+
+    wifi_nets.sort(key=lambda n: n['channel_5g'])
+
+    spoof_lines = ['SpoofAP spoof_list[] = {']
+    for net in wifi_nets:
+        bssid_ino = _bssid_as_hex_list_ino(net['bssid'])
+        ssid_safe = net['ssid'].replace('"', '\\"')  # escape quotes in SSID
         spoof_lines.append(
-            f'  {{ "{ssid_safe}", {channel_5g}, {bssid_ino}, {security} }},  '
+            f'  {{ "{ssid_safe}", {net["channel_5g"]}, {bssid_ino}, {net["security"]} }},  '
             f'// RSSI {net["rssi"]} dBm'
         )
     spoof_lines.append('};')
@@ -278,7 +285,7 @@ def rtl8720dn_sketch_create(
 
 if __name__ == '__main__':
     rtl8720dn_sketch_create(
-        opt_input        = r'E:\code\Dolus\Sheppard.json',
+        opt_input        = r'E:\code\Dolus\Tmu.json',
         # Output goes into a dedicated subfolder so the generated sketch
         # (generated/RTL8720dn_5G_Spoofer/RTL8720dn_5G_Spoofer.ino) never
         # overwrites the hand-written root RTL8720dn_5G_Spoofer.ino.
