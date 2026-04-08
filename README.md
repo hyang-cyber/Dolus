@@ -2,7 +2,7 @@
   <img src="image/project_logo.svg" alt="Project Dolos Logo" width="200"/>
 </div>
 
-# Project Dolos
+# Project Dolus
 # Building a 5GHz WiFi Spoofer with the Realtek RTL8720dn
 
 When testing rogue access point (AP) detection and anti-spoofing systems, having a versatile tool to simulate complex RF environments is invaluable. This post explores the technical details of a custom 5GHz WiFi AP Spoofer built using the Realtek RTL8720dn microcontroller.
