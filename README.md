@@ -6,7 +6,8 @@
 # Building a 5GHz WiFi Spoofer with BW16 (Realtek RTL8720dn)
 
 <div align="center">
-  <img src="image/Screen_Recording.gif" alt="Dolus Demo" width="600"/>
+  <img src="image/Screen_Recording.gif" alt="Dolus Demo" width="300"/>
+  <p><em>Spoofed 5GHz APs appearing on the latest android 16 device</em></p>
 </div>
 
 When testing rogue access point (AP) detection and anti-spoofing systems, having a versatile tool to simulate complex RF environments is invaluable. This post explores the technical details of a custom 5GHz WiFi AP Spoofer built using the Realtek RTL8720dn microcontroller.
